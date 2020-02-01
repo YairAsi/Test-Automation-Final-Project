@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+    <Enviroment>
+    <!--  TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    <!-- Web -->
+    <PlatformName>Web</PlatformName>
+    <url>http://localhost:3000</url>
+    <BrowserName>chrome</BrowserName>
+
+
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+</Enviroment>
